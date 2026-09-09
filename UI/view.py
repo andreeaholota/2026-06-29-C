@@ -49,6 +49,10 @@ class View(ft.UserControl):
         self._page.update()
 
     @property
+    def txt_result(self):
+        return self._txt_result
+
+    @property
     def controller(self):
         return self._controller
 

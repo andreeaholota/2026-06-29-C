@@ -1,4 +1,4 @@
-
+chinookchinook
 /*******************************************************************************
    Chinook Database - Version 1.4.5
    Script: Chinook_MySql.sql
